@@ -5,10 +5,10 @@ Starry Note is a powerful, user-friendly digital note-taking application built w
 ## 🚀 Key Features
 
 ### 1. Note Hierarchy Structure
-Organize your materials efficiently through an intuitive, multi-level file drawer system:
+Organize your materials efficiently through an intuitive, multi-level file drawer system, users can freely add, rename, move, or delete elements within this hierarchy:
 * **Notebooks:** The top-level containers used to group different subjects or major topics.
-* **Sections / Chapters:** Sub-categories created within individual notebooks to separate chapters or modules.
-* **Pages:** Individual canvas spaces inside sections where note-taking takes place. Users can freely add, rename, move, or delete elements within this hierarchy.
+- **Sections / Chapters:** Sub-categories created within individual notebooks to separate chapters or modules.
+* **Pages:** Individual canvas spaces inside sections where note-taking takes place. 
 
 ### 2. Concept Visualization (Mind Mapping)
 Go beyond traditional text logs by mapping out relationships between different subjects:
