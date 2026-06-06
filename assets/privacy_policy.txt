@@ -1,0 +1,29 @@
+Privacy Policy
+Welcome to Notetaking app! By using our Service, you agree to the collection and use of your information in accordance with this policy. We prioritize the protection of your privacy and will never rent or sell your information to anyone.
+
+Information Collection and Use
+When you use notetaking app without logging in, we do not require any personally identifiable information from you.
+
+Additionally, upon opening the app, CollaNote may connect to the Parse authentication server to verify your login status or update your account information.
+
+CollaNote also utilizes certain third-party services to enhance the app's functionality. For example, features such as text recognition, translation tools, and crash data collection for bug fixes are provided by third-party services. These services may collect information such as configured source and destination languages for diagnostic and usage analytics purposes. For more information, please refer to the privacy policies of the third-party service providers used by the app.
+Link to privacy policy of third party service providers used by the app:
+APIs in Google ML Kit (for translate tool, text recognition feature)
+
+Log Data
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Service Providers
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Children’s Privacy
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+This policy is effective as of 13-2-2025
+
+Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 123abc@gmail.com.

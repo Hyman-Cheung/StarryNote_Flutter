@@ -1,0 +1,34 @@
+1. App Name and Version
+Starry Note - Version 1.0"
+
+2. Developers
+Cheung Hing Lam: Project Leader
+Chong Tsun Ming: Coding design
+Lam Chin Shing: Database design
+Li Ka Tsun: User Interface design
+
+
+3. Contributors
+Alex Kwan
+Dominic Cheung
+
+
+4. Design Credits
+Figma (Version 124.5.7, Publish date: Fri, 15 Nov 2024 12:44:21)
+SQLite(Version 2.4.1)
+Flutter(Version 3.7.0)
+Notion
+
+
+5. Icons and Images
+Icons made by Liam from chatgptpoe 
+
+
+6. Support
+"For support, contact us at 123@gmail.com"
+
+7. Acknowledgments
+"We acknowledge the support of Alex Kwan, Dominic Cheung, Deepseek, Chatgptpoe."                                                                                                                  
+
+8. Feedback
+"We appreciate your feedback! Reach us at 123@gmail.com."

@@ -1,0 +1,2 @@
+D:/User/Desktop/temp/IT_Project_team4/notes_taking_app/android/app/.cxx/Debug/2i5v3i17/x86_64/CMakeFiles/edit_cache.dir
+D:/User/Desktop/temp/IT_Project_team4/notes_taking_app/android/app/.cxx/Debug/2i5v3i17/x86_64/CMakeFiles/rebuild_cache.dir
