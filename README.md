@@ -2,6 +2,13 @@
 
 Starry Note is a user-friendly digital note-taking application built with Flutter and powered by SQLite for secure, localized database storage. Inspired by the idea of infinite possibilities, the application is designed for students, professionals, and lifelong learners to help them manage notes, connect complex concepts visually, organize tasks, and track study progress efficiently.
 
+## 🚀 Try It Now
+<a href="https://Hyman-Cheung.github.io/StarryNote_Flutter">
+    <img src="https://img.shields.io/badge/Try_Android_App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Try Android App">
+</a>
+
+---
+
 ## 🚀 Key Features
 
 ### 1. Note Hierarchy Structure
@@ -67,6 +74,15 @@ Never lose track of what you need to ask your instructors or classmates:
 
 ---
 
-## 💻 Tech Stack Overview
-* **Frontend Framework:** Flutter (Dart)
-* **Local Storage Layer:** SQLite (Database metadata tracking) & JSON (Flexible note element/stroke mapping)
+## 📸 Screenshots & Previews
+
+
+<div align="center">
+| 📝 Sign-up Page | 🔑 Login Page | 👤 Profile Settings | 
+| :---: | :---: | :---: |
+| <img src="assets/RegistrationPage.png" width="220" height="450"> | <img src="assets/LoginPage.png" width="220" height="450"> | <img src="assets/ProfilePage.png" width="220" height="450"> |
+</div>
+
+---
+## 👤 Credits
+Designed and Developed by **Hyman Cheung, Timmy Chong, Jason Lam, and Liam Li**
