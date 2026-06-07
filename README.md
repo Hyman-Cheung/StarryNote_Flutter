@@ -76,15 +76,32 @@ Never lose track of what you need to ask your instructors or classmates:
 
 ## 📸 Screenshots & Previews
 
-
 <div align="center">
+    
+ ### 📝 Main Interface
 
-### 📝 Main Interface
+ | Insert | 
+ | :---: | 
+ | <img src="screenshots/StarryNote_MainInterface_Insert.png" width="700" height="1200"> | 
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="screenshots/StarryNote_MainInterface_Insert.png" width="500" height="800"> | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="500" height="800"> | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="500" height="800"> |
+ | Draw |
+ | :---: | 
+ | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="700" height="1200"> | 
 
+ | Accessiblity |
+ | :---: |
+ | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="700" height="1200"> |
+
+</div>
+
+<div>
+    
+ ### 🗂️ Note Hierarchy Structure
+
+ ||
+ | :---: |
+ | <img src="screenshots/StarryNote_NoteHierarchyStructure.png" width="700" height="1200"> |
+  
 </div>
 
 
