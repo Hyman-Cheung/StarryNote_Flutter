@@ -12,10 +12,11 @@ Organize your materials efficiently through an intuitive, multi-level file drawe
 
 ### 2. Concept Visualization (Mind Mapping)
 Go beyond traditional text logs by mapping out relationships between different subjects:
-* **Custom Nodes:** Represent notebooks, sections, pages, or dedicated concept labels using distinct shapes and colors.
-* **Interactive Graphs:** Automatically generate a visual mind map of your notes with the press of a button.
-* **Custom Linkage:** Connect nodes using directional arrows, customize node titles, and add annotations to clarify complex topics.
-* **Seamless Navigation:** Click on any node inside the mind map to view its explicit hierarchy location or quickly edit its details.
+* **On-Page Concept Labels:** Create and place dedicated concept labels anywhere on your note canvas. These labels act as customizable focal points that can be linked directly into your map, allowing you to brainstorm and connect ideas right where you take notes.
+* **Custom Nodes:** Automatically or manually represent your notebooks, sections, pages, or free-standing concept labels as nodes using distinct shapes and colors.
+* **Interactive Graphs:** Automatically generate an interconnected visual mind map of your notes and concepts with the press of a button.
+* **Custom Linkage:** Connect different nodes and labels using directional arrows, customize node titles, and add annotations to clarify complex relationships or subject topics.
+* **Seamless Navigation:** Click on any node or label inside the mind map to instantly view its explicit location within your notebooks or quickly jump in to edit its details.
 
 ### 3. Note-Reviewing System
 Boost information retention with a built-in revision tracking system:
