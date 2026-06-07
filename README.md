@@ -28,9 +28,13 @@ Boost information retention with a built-in revision tracking system:
 ### 4. Interactive Task Calendar
 Keep your schedule and study tasks organized in one unified view:
 * **Task Scheduler:** Add personal tasks with names, descriptions, dates, times, and priority levels.
-* **Note Interlinking:** Hyperlink calendar tasks directly to specific pages, notebooks, or review labels. Clicking the task instantly redirects you to the corresponding note location.
+* **Note Interlinking:** Hyperlink calendar tasks directly to review labels from specific pages. Clicking the task instantly redirects you to the corresponding note location.
 * **Smart Notifications:** Receive timely push alerts and reminders to prepare for upcoming tasks or scheduled review sessions.
-* **Workload Indicators:** The calendar displays color-coded indicators beneath dates to represent task volume and priority layout for that day.
+* **Workload Indicators:** The calendar displays color-coded indicators beneath dates to visually reflect your upcoming task volume and preparation window:
+  * 🔴 **Red Indicator:** High urgency / heavy workload (Tasks are due daily or back-to-back).
+  * 🟠 **Orange Indicator:** Moderate urgency (Tasks are spaced out with only 1 to 2 preparation days in between).
+  * 🟢 **Green Indicator:** Manageable workload (Tasks are comfortably spaced with 3 to 4 preparation days in between).
+  * ⚫ **Black Indicator:** Low urgency / clear schedule (Tasks are far out with more than 5 preparation days available).
 
 ### 5. Dedicated Question List
 Never forget what to ask your instructors or classmates:
