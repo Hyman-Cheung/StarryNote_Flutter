@@ -83,6 +83,12 @@ Never lose track of what you need to ask your instructors or classmates:
 | <img src="assets/RegistrationPage.png" width="220" height="450"> | <img src="assets/LoginPage.png" width="220" height="450"> | <img src="assets/ProfilePage.png" width="220" height="450"> |
 </div>
 
+<div align="center">
+| 📝 Sign-up Page | 🔑 Login Page | 👤 Profile Settings | 
+| :---: | :---: | :---: |
+| <img src="assets/RegistrationPage.png" width="220" height="450"> | <img src="assets/LoginPage.png" width="220" height="450"> | <img src="assets/ProfilePage.png" width="220" height="450"> |
+</div>
+
 ---
 ## 👤 Credits
 Designed and Developed by **Hyman Cheung, Timmy Chong, Jason Lam, and Liam Li**
