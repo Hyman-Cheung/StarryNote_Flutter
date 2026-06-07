@@ -1,6 +1,6 @@
 # Starry Note
 
-Starry Note is a powerful, user-friendly digital note-taking application built with Flutter. Inspired by the idea of infinite possibilities, the application is designed for students, professionals, and lifelong learners to help them manage notes, connect complex concepts visually, organize tasks, and track study progress efficiently.
+Starry Note is a user-friendly digital note-taking application built with Flutter and powered by SQLite for secure, localized database storage. Inspired by the idea of infinite possibilities, the application is designed for students, professionals, and lifelong learners to help them manage notes, connect complex concepts visually, organize tasks, and track study progress efficiently.
 
 ## 🚀 Key Features
 
@@ -68,7 +68,5 @@ Never lose track of what you need to ask your instructors or classmates:
 ---
 
 ## 💻 Tech Stack Overview
-
 * **Frontend Framework:** Flutter (Dart)
 * **Local Storage Layer:** SQLite (Database metadata tracking) & JSON (Flexible note element/stroke mapping)
-* **UI/UX Design Base:** Figma
