@@ -78,9 +78,13 @@ Never lose track of what you need to ask your instructors or classmates:
 
 
 <div align="center">
-| | 📝 Main Interface | | 
+
+### 📝 Main Interface
+
+| | | |
 | :---: | :---: | :---: |
-| <img src="screenshots/StarryNote_MainInterface_Insert.png" width="220" height="450"> | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="220" height="450"> | <img src="screenshots/StarryNote_MainInterface_Accessinlity.png" width="220" height="450"> |
+| <img src="screenshots/StarryNote_MainInterface_Insert.png" width="500" height="800"> | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="500" height="800"> | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="500" height="800"> |
+
 </div>
 
 
