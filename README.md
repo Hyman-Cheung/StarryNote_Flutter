@@ -19,11 +19,16 @@ Go beyond traditional text logs by mapping out relationships between different s
 * **Seamless Navigation:** Click on any node or label inside the mind map to instantly view its explicit location within your notebooks or quickly jump in to edit its details.
 
 ### 3. Note-Reviewing System
-Boost information retention with a built-in revision tracking system:
-* **Review Labels:** Tag specific parts of your notes that require periodic review.
-* **Centralized Review List:** Automatically collects all marked content into a master study list.
-* **Smart Organization:** Filter and sort your review items by subject, category, chapter, or custom priority.
-* **Keyword Search:** Quickly find specific revision materials using a keyword search engine.
+Boost information retention with a structured revision tracking system:
+* **Review Labels:** Tag specific parts of your notes that require periodic review, allowing you to record key takeaways, main points, and assign priority levels directly alongside your canvas content.
+* **Priority Color:** Track and prioritize your review materials methodically based on urgency:
+  * 🔴 **High Priority:** Red color
+  * 🟠 **Medium Priority:** Orange color
+  * ⚫ **Low Priority:** Black color
+* **Centralized Review List:** Automatically aggregates all marked content and their summary points into a unified master study list.
+* **Smart Organization:** Filter and sort your review items dynamically by subject, category, chapter, creation date, or priority level.
+* **Keyword Search:** Instantly locate specific revision sections across your workspace using a dedicated keyword search tool.
+* **Quick-Jump:** Tap on any item in the master Review List to jump directly back to the exact page layout and canvas location where the review label was originally created.
 
 ### 4. Interactive Task Calendar
 Keep your schedule and study tasks organized in one unified view:
@@ -37,11 +42,16 @@ Keep your schedule and study tasks organized in one unified view:
   * ⚫ **Black Indicator:** Low urgency / clear schedule (Tasks are far out with more than 5 preparation days available).
 
 ### 5. Dedicated Question List
-Never forget what to ask your instructors or classmates:
-* **In-Note Question Tagging:** Quickly place a question label (using a "?" tag) next to any confusing note content or slide.
-* **Question Ledger:** Automatically syncs tagged items into a master Question List sorted by subject or category.
-* **Priority Color-Coding:** Color-code questions to mark urgency and follow up on unresolved problems methodically.
-* **Quick-Jump:** Tap on any item in the Question List to go directly back to the exact page layout where the question was flagged.
+Never lose track of what you need to ask your instructors or classmates:
+* **In-Note Question Tagging:** Quickly place a question label (using a "?" tag) next to any confusing note content or slide, then enter your specific question details and assign a priority level right where you are studying.
+* **Priority Color:** Categorize your inquiries into three distinct levels to track unresolved problems methodically:
+  * 🔴 **High Priority:** Red color
+  * 🟠 **Medium Priority:** Orange color
+  * ⚫ **Low Priority:** Black color
+* **Question Ledger:** Automatically syncs your tagged notes into a master Question List, neatly sorted by subject or category.
+* **Smart Organization:** Filter and sort your questions dynamically by subject, category, chapter, creation date, or priority level.
+* **Keyword Search:** Instantly locate specific questions across your entire workspace using a dedicated keyword search tool.
+* **Quick-Jump:** Tap on any item in the master Question List to jump directly back to the exact page layout and canvas location where the question was originally flagged.
 
 ---
 
