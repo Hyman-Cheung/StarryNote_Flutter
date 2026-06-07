@@ -1,0 +1,148 @@
+<!-- 
+	Author: Cheung Hing Lam - Hyman
+-->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Word Game</title>
+		<style>
+			/* Background */
+			body 
+			{
+				font-family: Arial, sans-serif;
+				text-align: center;
+				background-color: #555555;
+				padding: 40px 20px;
+			}
+			
+			/* Content Container */
+			.content-container 
+			{
+				max-width: 600px;
+				margin: 0 auto;
+				background: white;
+				padding: 30px;
+				border-radius: 12px;
+				box-shadow: 5px 5px 30px rgba(3,3,3,30);
+			}
+			
+			/* The link that let user to demo */
+			.demo-card 
+			{
+				display: block;
+				text-decoration: none;
+				color: #333;
+				margin: 30px auto 10px auto;
+				padding: 50px 20px;
+				border: 2px dashed #333333;
+				border-radius: 24px;
+				background-color: #eeeeee;
+				max-width: 320px;
+				transition: all 0.3s ease;
+				cursor: pointer;
+			}
+
+			/* Hover animation of the link */
+			.demo-card:hover 
+			{
+				transform: translateY(-5px);
+				border-color: #ffc505;
+				background-color: #fff4d6;
+				box-shadow: 0 10px 25px rgba(245, 179, 27, 0.15);
+			}
+			
+			/* Icon */
+			.icon-div 
+			{
+				font-size: 60px;
+				margin-bottom: 15px;
+				animation: float 3s ease-in-out infinite;
+			}
+			#icon
+			{
+				hight:130px;
+				width:130px;
+				border:13px;
+			}
+			
+			/* Animation of the icon */
+			@keyframes float 
+			{
+				0% { transform: translateY(0px); }
+				50% { transform: translateY(-10px); }
+				100% { transform: translateY(0px); }
+			}
+			
+			/* Instruction */
+			#instruction
+			{
+				font-size: 13px; 
+				color: #718096;
+				margin: 8px 0 0 0; 
+				line-height: 1.4;
+			}
+			
+			/* Bttton */
+			.btn
+			{
+				display: inline-block;
+				margin-top: 20px;
+				background-color: #666666;
+				color: white;
+				padding: 12px 30px;
+				border-radius: 8px;
+				font-weight: bold;
+				font-size: 15px;
+				transition: background 0.2s ease;
+				box-shadow: 0 4px 6px rgba(49, 130, 206, 0.2);
+			}
+			
+			/* Hover animation of the launch button */
+			.demo-card:hover #btn-launch
+			{
+				background-color: #ffc505;
+			}
+			
+			
+			/* Hover animation of the download button */
+			#btn-download:hover 
+			{
+				background-color: #ffc505;
+			}
+			
+		</style>
+	</head>
+	<!-- Body of the web page -->
+	<body>
+		<div class="content-container">
+			<!-- Title of the app -->
+			<h1>Starry Note</h1>
+			<!-- Direction of the app -->
+			<p>
+        Starry Note is a user-friendly note-taking app built with Flutter and SQLite for secure, local storage. Designed for students and professionals, it helps you manage hierarchies, connect complex concepts visually through mind mapping, organize daily tasks, and track study progress efficiently. Turn ideas into structured knowledge.
+			</p>
+			<!-- Link -->
+			<a href="https://appetize.io/app/b_jt5yqcwk7qchumpw5ss3lj4hr4" target="_blank" class="demo-card">
+				<!-- Icon -->
+				<div class="icon-div">
+					<img id= "icon" src="./src/assets/icon/favicon.png"/>
+				</div>
+				<!-- Instruction -->
+				<h3>Launch Android App Demo</h3>
+				<p id="instruction">
+					Click to open a secure virtual device simulator in a new tab. No downloads or setup required.
+				</p>
+				<!-- Launch Button -->
+				<div class="btn" id="btn-launch">Open Live Simulation</div>
+			</a>
+			<!-- Download Button -->
+			<a href="./StarryNote.apk" download>
+				<div class="btn" id="btn-download">
+					Download Android APP
+				</div>
+			</a>
+		</div>
+	</body>
+</html>
