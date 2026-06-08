@@ -11,7 +11,7 @@ Starry Note is a user-friendly note-taking app built with Flutter and SQLite for
 
 ## 🚀 Key Features
 
-### 1. Note Hierarchy Structure
+### 1. 🗂️ Note Hierarchy Structure
 Organize your materials efficiently through an intuitive, multi-level file drawer system, users can freely add, rename, move, or delete elements within this hierarchy:
 * **Notebooks:** The top-level containers used to group different subjects or major topics.
 - **Sections / Chapters:** Sub-categories created within individual notebooks to separate chapters or modules.
@@ -95,6 +95,16 @@ Never lose track of what you need to ask your instructors or classmates:
  | ♿ Accessiblity |
  | :---: |
  | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="700" height="1200"> |
+
+</div>
+
+<div align="center">
+    
+ ### 🛠️ Fundamental Note-Editing Tools
+
+ | 📄 PDF Integration |
+ | :---: |
+ | <img src="screenshots/StarryNote_AddPDF.png.png" width="700" height="1200"> |
 
 </div>
 
