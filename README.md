@@ -41,6 +41,10 @@ Boost information retention with a structured revision tracking system:
 Keep your schedule and study tasks organized in one unified view:
 * **Task Scheduler:** Add personal tasks with names, descriptions, dates, times, and priority levels.
 * **Note Interlinking:** Hyperlink calendar tasks directly to review labels from specific pages. Clicking the task instantly redirects you to the corresponding note location.
+* **Priority Color:** Track and prioritize your tasks methodically based on urgency:
+  * 🔴 **High Priority:** Red color
+  * 🟠 **Medium Priority:** Orange color
+  * ⚫ **Low Priority:** Black color
 * **Smart Notifications:** Receive timely push alerts and reminders to prepare for upcoming tasks or scheduled review sessions.
 * **Workload Indicators:** The calendar displays color-coded indicators beneath dates to visually reflect your upcoming task volume and preparation window:
   * 🔴 **Red Indicator:** High urgency / heavy workload (Tasks are due daily or back-to-back).
