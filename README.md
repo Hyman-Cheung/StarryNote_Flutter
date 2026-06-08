@@ -25,7 +25,7 @@ Go beyond traditional text logs by mapping out relationships between different s
 * **Custom Linkage:** Connect different nodes and labels using directional arrows, customize node titles, and add annotations to clarify complex relationships or subject topics.
 * **Seamless Navigation:** Click on any node or label inside the mind map to instantly view its explicit location within your notebooks or quickly jump in to edit its details.
 
-### 3. Note-Reviewing System
+### 3. ⭐ Note-Reviewing Function
 Boost information retention with a structured revision tracking system:
 * **Review Labels:** Tag specific parts of your notes that require periodic review, allowing you to record key takeaways, main points, and assign priority levels directly alongside your canvas content.
 * **Priority Color:** Track and prioritize your review materials methodically based on urgency:
@@ -78,7 +78,7 @@ Never lose track of what you need to ask your instructors or classmates:
 
 <div align="center">
     
- ### 1.📱 Main Interface
+ ### 📱 Main Interface
 
  | 🗂️ Note Hierarchy Structure |
  | :---: |
@@ -98,9 +98,11 @@ Never lose track of what you need to ask your instructors or classmates:
 
 </div>
 
+</br>
+
 <div align="center">
     
- ### 2.🛠️ Fundamental Note-Editing Tools
+ ### 🛠️ Fundamental Note-Editing Tools
 
  | 📄 PDF Integration |
  | :---: |
@@ -110,6 +112,26 @@ Never lose track of what you need to ask your instructors or classmates:
  | :---: |
  | <img src="screenshots/StarryNote_Pen_Highlighter_Text.png" width="800" height="500"> |
 
+</div>
+
+</br>
+
+<div align="center">
+    
+ ### ⭐ Note-Reviewing Function
+
+ | ➕ Add Review Lable |
+ | :---: |
+ | <img src="screenshots/StarryNote_AddReviewLable.png" width="800" height="500"> |
+
+ | 📋 Study List |
+ | :---: |
+ | <img src="screenshots/StarryNote_StudyList.png" width="800" height="500"> |
+
+ | 📍 Locate To Study Lable |
+ | :---: |
+ | <img src="screenshots/StarryNote_LocateToStudyLable.png" width="800" height="500"> |
+ 
 </div>
 
 
