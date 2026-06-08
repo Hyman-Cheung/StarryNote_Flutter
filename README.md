@@ -17,7 +17,7 @@ Organize your materials efficiently through an intuitive, multi-level file drawe
 - **Sections / Chapters:** Sub-categories created within individual notebooks to separate chapters or modules.
 * **Pages:** Individual canvas spaces inside sections where note-taking takes place. 
 
-### 2. Concept Visualization (Mind Mapping)
+### 2. 🔗 Concept Visualization (Mind Mapping)
 Go beyond traditional text logs by mapping out relationships between different subjects:
 * **On-Page Concept Labels:** Create and place dedicated concept labels anywhere on your note canvas. These labels act as customizable focal points that can be linked directly into your map, allowing you to brainstorm and connect ideas right where you take notes.
 * **Custom Nodes:** Automatically or manually represent your notebooks, sections, pages, or free-standing concept labels as nodes using distinct shapes and colors.
@@ -191,6 +191,42 @@ Never lose track of what you need to ask your instructors or classmates:
  | 📍 Locate The Note |
  | :---: |
  | <img src="screenshots/InteractiveTaskCalendar/StarryNote_LocateTheNote.png" width="800" height="500"> |
+ 
+</div>
+
+</br>
+
+<div align="center">
+    
+ ### 🔗 Concept Visualization (Mind Mapping)
+
+ | ➕ Add Concept Lable |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_AddConceptLable.png" width="800" height="500"> |
+
+ | ➕ Create Relation |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_CreateRelation.png" width="800" height="500"> |
+
+ | ⌨️ Enter Relation Name |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_EnterRelationName.png" width="800" height="500"> |
+
+ | 🗺️ Mind Map |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_MindMap.png" width="800" height="500"> |
+
+ | ➕ Add Item to The Map|
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_AddItemt.png" width="800" height="500"> |
+
+ | 🔗 Link The Items |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_LinkTheItems.png" width="800" height="500"> |
+
+| 📍 Locate The Note |
+ | :---: |
+ | <img src="screenshots/ConceptVisualization/StarryNote_LocateTheNote.png" width="800" height="500"> |
  
 </div>
 
