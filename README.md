@@ -9,7 +9,7 @@ Starry Note is a user-friendly note-taking app built with Flutter and SQLite for
 
 ---
 
-## 🚀 Key Features
+## 💡 Key Features
 
 ### 1. 🗂️ Note Hierarchy Structure
 Organize your materials efficiently through an intuitive, multi-level file drawer system, users can freely add, rename, move, or delete elements within this hierarchy:
@@ -37,7 +37,7 @@ Boost information retention with a structured revision tracking system:
 * **Keyword Search:** Instantly locate specific revision sections across your workspace using a dedicated keyword search tool.
 * **Quick-Jump:** Tap on any item in the master Review List to jump directly back to the exact page layout and canvas location where the review label was originally created.
 
-### 4. Interactive Task Calendar
+### 4. 📅 Interactive Task Calendar
 Keep your schedule and study tasks organized in one unified view:
 * **Task Scheduler:** Add personal tasks with names, descriptions, dates, times, and priority levels.
 * **Note Interlinking:** Hyperlink calendar tasks directly to review labels from specific pages. Clicking the task instantly redirects you to the corresponding note location.
@@ -86,19 +86,19 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | 🗂️ Note Hierarchy Structure |
  | :---: |
- | <img src="screenshots/StarryNote_NoteHierarchyStructure.png" width="800" height="500"> |
+ | <img src="screenshots/MainInterface/StarryNote_NoteHierarchyStructure.png" width="800" height="500"> |
  
  | ➕ Insert | 
  | :---: | 
- | <img src="screenshots/StarryNote_MainInterface_Insert.png" width="800" height="500"> | 
+ | <img src="screenshots/MainInterface/StarryNote_MainInterface_Insert.png" width="800" height="500"> | 
 
  | ✏️ Draw |
  | :---: | 
- | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="800" height="500"> | 
+ | <img src="screenshots/MainInterface/StarryNote_MainInterface_Draw.png" width="800" height="500"> | 
 
  | ♿ Accessiblity |
  | :---: |
- | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="800" height="500"> |
+ | <img src="screenshots/MainInterface/StarryNote_MainInterface_Accessiblity.png" width="800" height="500"> |
 
 </div>
 
@@ -110,11 +110,11 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | 📄 PDF Integration |
  | :---: |
- | <img src="screenshots/StarryNote_AddPDF.png" width="800" height="500"> |
+ | <img src="screenshots/FundamentalNoteEditingTools/StarryNote_AddPDF.png" width="800" height="500"> |
 
  | 🖋️ Electronic Pen & 🖍️ Highlighter & 🔤 Text |
  | :---: |
- | <img src="screenshots/StarryNote_Pen_Highlighter_Text.png" width="800" height="500"> |
+ | <img src="screenshots/FundamentalNoteEditingTools/StarryNote_Pen_Highlighter_Text.png" width="800" height="500"> |
 
 </div>
 
@@ -126,15 +126,15 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | ➕ Add Review Lable |
  | :---: |
- | <img src="screenshots/StarryNote_AddReviewLable.png" width="800" height="500"> |
+ | <img src="screenshots/NoteReviewingList/StarryNote_AddReviewLable.png" width="800" height="500"> |
 
  | 📋 Study List |
  | :---: |
- | <img src="screenshots/StarryNote_StudyList.png" width="800" height="500"> |
+ | <img src="screenshots/NoteReviewingList/StarryNote_StudyList.png" width="800" height="500"> |
 
  | 📍 Locate To Review Lable |
  | :---: |
- | <img src="screenshots/StarryNote_LocateToReviewLable.png" width="800" height="500"> |
+ | <img src="screenshots/NoteReviewingList/StarryNote_LocateToReviewLable.png" width="800" height="500"> |
  
 </div>
 
@@ -146,15 +146,51 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | ➕ Add Question Lable |
  | :---: |
- | <img src="screenshots/StarryNote_AddQuestionLable.png" width="800" height="500"> |
+ | <img src="screenshots/DedicatedQuestionList/StarryNote_AddQuestionLable.png" width="800" height="500"> |
 
  | 📋 Question List |
  | :---: |
- | <img src="screenshots/StarryNote_QuestionList.png" width="800" height="500"> |
+ | <img src="screenshots/DedicatedQuestionListStarryNote_QuestionList.png" width="800" height="500"> |
 
  | 📍 Locate To Question Lable |
  | :---: |
- | <img src="screenshots/StarryNote_LocateToQuestionLable.png" width="800" height="500"> |
+ | <img src="screenshots/DedicatedQuestionList/StarryNote_LocateToQuestionLable.png" width="800" height="500"> |
+ 
+</div>
+
+</br>
+
+<div align="center">
+    
+ ### 📅 Interactive Task Calendar
+
+ | ➕ Add New Task |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_AddTask.png" width="800" height="500"> |
+
+ | 📍 Locate The Note |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_LocateTheNote.png" width="800" height="500"> |
+
+ | 📅 Task Calendar |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_TaskCalendar.png" width="800" height="500"> |
+
+ | 📋 Task Information |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_TaskInformation.png" width="800" height="500"> |
+
+ | ➕ Add Notes To The Task |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_AddNotesToTask.png" width="800" height="500"> |
+ 
+ | 📋 Task Review List |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_TaskReviewList.png" width="800" height="500"> |
+
+ | 📍 Locate The Note |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_LocateTheNote.png" width="800" height="500"> |
  
 </div>
 
