@@ -82,19 +82,19 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | 🗂️ Note Hierarchy Structure |
  | :---: |
- | <img src="screenshots/StarryNote_NoteHierarchyStructure.png" width="700" height="1200"> |
+ | <img src="screenshots/StarryNote_NoteHierarchyStructure.png" width="800" height="500"> |
  
  | ➕ Insert | 
  | :---: | 
- | <img src="screenshots/StarryNote_MainInterface_Insert.png" width="700" height="1200"> | 
+ | <img src="screenshots/StarryNote_MainInterface_Insert.png" width="800" height="500"> | 
 
  | ✏️ Draw |
  | :---: | 
- | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="700" height="1200"> | 
+ | <img src="screenshots/StarryNote_MainInterface_Draw.png" width="800" height="500"> | 
 
  | ♿ Accessiblity |
  | :---: |
- | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="700" height="1200"> |
+ | <img src="screenshots/StarryNote_MainInterface_Accessiblity.png" width="800" height="500"> |
 
 </div>
 
@@ -104,7 +104,7 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | 📄 PDF Integration |
  | :---: |
- | <img src="screenshots/StarryNote_AddPDF.png.png" width="700" height="1200"> |
+ | <img src="screenshots/StarryNote_AddPDF.png" width="800" height="500"> |
 
 </div>
 
