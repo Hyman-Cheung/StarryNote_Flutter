@@ -25,7 +25,7 @@ Go beyond traditional text logs by mapping out relationships between different s
 * **Custom Linkage:** Connect different nodes and labels using directional arrows, customize node titles, and add annotations to clarify complex relationships or subject topics.
 * **Seamless Navigation:** Click on any node or label inside the mind map to instantly view its explicit location within your notebooks or quickly jump in to edit its details.
 
-### 3. ⭐ Note-Reviewing Function
+### 3. ⭐ Note-Reviewing List
 Boost information retention with a structured revision tracking system:
 * **Review Labels:** Tag specific parts of your notes that require periodic review, allowing you to record key takeaways, main points, and assign priority levels directly alongside your canvas content.
 * **Priority Color:** Track and prioritize your review materials methodically based on urgency:
@@ -48,7 +48,7 @@ Keep your schedule and study tasks organized in one unified view:
   * 🟢 **Green Indicator:** Manageable workload (Tasks are comfortably spaced with 3 to 4 preparation days in between).
   * ⚫ **Black Indicator:** Low urgency / clear schedule (Tasks are far out with more than 5 preparation days available).
 
-### 5. Dedicated Question List
+### 5. ❓ Dedicated Question List
 Never lose track of what you need to ask your instructors or classmates:
 * **In-Note Question Tagging:** Quickly place a question label (using a "?" tag) next to any confusing note content or slide, then enter your specific question details and assign a priority level right where you are studying.
 * **Priority Color:** Categorize your inquiries into three distinct levels to track unresolved problems methodically:
@@ -118,7 +118,7 @@ Never lose track of what you need to ask your instructors or classmates:
 
 <div align="center">
     
- ### ⭐ Note-Reviewing Function
+ ### ⭐ Note-Reviewing List
 
  | ➕ Add Review Lable |
  | :---: |
@@ -128,9 +128,29 @@ Never lose track of what you need to ask your instructors or classmates:
  | :---: |
  | <img src="screenshots/StarryNote_StudyList.png" width="800" height="500"> |
 
- | 📍 Locate To Study Lable |
+ | 📍 Locate To Review Lable |
  | :---: |
- | <img src="screenshots/StarryNote_LocateToStudyLable.png" width="800" height="500"> |
+ | <img src="screenshots/StarryNote_LocateToReviewLable.png" width="800" height="500"> |
+ 
+</div>
+
+</br>
+
+<div align="center">
+    
+ ### ❓ Dedicated Question List
+
+ | ➕ Add Question Lable |
+ | :---: |
+ | <img src="screenshots/StarryNote_AddQuestionLable.png" width="800" height="500"> |
+
+ | 📋 Question List |
+ | :---: |
+ | <img src="screenshots/StarryNote_QuestionList.png" width="800" height="500"> |
+
+ | 📍 Locate To Question Lable |
+ | :---: |
+ | <img src="screenshots/StarryNote_LocateToQuestionLable.png" width="800" height="500"> |
  
 </div>
 
