@@ -78,7 +78,7 @@ Never lose track of what you need to ask your instructors or classmates:
 
 <div align="center">
     
- ### 📱 Main Interface
+ ### 1.📱 Main Interface
 
  | 🗂️ Note Hierarchy Structure |
  | :---: |
@@ -100,13 +100,13 @@ Never lose track of what you need to ask your instructors or classmates:
 
 <div align="center">
     
- ### 🛠️ Fundamental Note-Editing Tools
+ ### 2.🛠️ Fundamental Note-Editing Tools
 
  | 📄 PDF Integration |
  | :---: |
  | <img src="screenshots/StarryNote_AddPDF.png" width="800" height="500"> |
 
- | Electronic Pen & Highlighter & Text |
+ | 🖋️ Electronic Pen & 🖍️ Highlighter & 🔤 Text |
  | :---: |
  | <img src="screenshots/StarryNote_Pen_Highlighter_Text.png" width="800" height="500"> |
 
