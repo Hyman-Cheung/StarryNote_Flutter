@@ -65,7 +65,7 @@ Never lose track of what you need to ask your instructors or classmates:
 ## 🛠️ Fundamental Note-Editing Tools
 
 * **Infinite Canvas & Zoom:** Enjoy unlimited screen space to write and draw freely. Pinch to zoom in or out infinitely to observe complex notes or view high-level overviews.
-* **PDF Integration:** Insert external PDF files directly onto your note canvas to write and annotate on top of course materials.
+* **📄 PDF Integration:** Insert external PDF files directly onto your note canvas to write and annotate on top of course materials.
 * **Electronic Pen & Highlighter:** Create custom drawing tools by adjusting stroke thickness, transparency, and a vibrant color palette.
 * **Advanced Erasers:** Choose between a **Stroke Eraser** (to delete an entire line instantly) and a **Point Eraser** (to erase specific micro-areas precisely).
 * **Lasso Tool:** Draw a loop around handwritten strokes to select and drag them freely across the canvas.
@@ -105,6 +105,10 @@ Never lose track of what you need to ask your instructors or classmates:
  | 📄 PDF Integration |
  | :---: |
  | <img src="screenshots/StarryNote_AddPDF.png" width="800" height="500"> |
+
+ | Electronic Pen & Highlighter & Text |
+ | :---: |
+ | <img src="screenshots/StarryNote_Pen_Highlighter_Text.png" width="800" height="500"> |
 
 </div>
 
