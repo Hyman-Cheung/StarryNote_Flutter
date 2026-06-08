@@ -150,7 +150,7 @@ Never lose track of what you need to ask your instructors or classmates:
 
  | 📋 Question List |
  | :---: |
- | <img src="screenshots/DedicatedQuestionListStarryNote_QuestionList.png" width="800" height="500"> |
+ | <img src="screenshots/DedicatedQuestionList/StarryNote_QuestionList.png" width="800" height="500"> |
 
  | 📍 Locate To Question Lable |
  | :---: |
@@ -168,13 +168,13 @@ Never lose track of what you need to ask your instructors or classmates:
  | :---: |
  | <img src="screenshots/InteractiveTaskCalendar/StarryNote_AddTask.png" width="800" height="500"> |
 
- | 📍 Locate The Note |
- | :---: |
- | <img src="screenshots/InteractiveTaskCalendar/StarryNote_LocateTheNote.png" width="800" height="500"> |
-
  | 📅 Task Calendar |
  | :---: |
  | <img src="screenshots/InteractiveTaskCalendar/StarryNote_TaskCalendar.png" width="800" height="500"> |
+
+ | 📋 Task List |
+ | :---: |
+ | <img src="screenshots/InteractiveTaskCalendar/StarryNote_TaskList.png" width="800" height="500"> |
 
  | 📋 Task Information |
  | :---: |
