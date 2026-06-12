@@ -45,7 +45,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets: 
+  assets:
     - assets/ImgButton/lassoTool.png
     - assets/ImgButton/eraser.png
     - assets/privacy_policy.txt
@@ -55,6 +55,7 @@ flutter:
     - assets/acknowledgement.txt
     - assets/appearance.txt
     - assets/logo.png
+    - shorebird.yaml
 
 flutter_icons:
   android: true
