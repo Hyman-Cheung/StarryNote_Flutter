@@ -1,2 +1,0 @@
-D:/User/Desktop/temp/IT_Project_team4/notes_taking_app/android/app/.cxx/Debug/2i5v3i17/armeabi-v7a/CMakeFiles/edit_cache.dir
-D:/User/Desktop/temp/IT_Project_team4/notes_taking_app/android/app/.cxx/Debug/2i5v3i17/armeabi-v7a/CMakeFiles/rebuild_cache.dir
